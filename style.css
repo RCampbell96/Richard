@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: lightblue;
+}
+
+h1 {
+    font-weight: bolder;
+    color: purple;
+}
+
+p {
+    font-size: 32px;
+}
+
+img {
+    width: 900px;
+}
